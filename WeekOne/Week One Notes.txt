@@ -1,0 +1,22 @@
+Week one of second term.
+
+https://github.com/TheLarkInn
+pwd shows where you are on the computer in GitBash
+ls to see whats on the directory (whats files that are in the computer)
+Clear gets rid of whats on the screen.
+mkdir to make directories 
+cd .. makes you go back to the previous directory
+cd ./ to change the directory permently 
+rm -r to remove the directory
+git intit make the connection to github 
+git add . addes everythingfrom the file
+git commit saves it 
+git branch -M main
+git remote add origin (Then add the GitHub site) sincs it with GitHub
+
+git config --global core.editor <name of editor including path>
+
+17:22
+git config --global core.editor nano
+
+ muawya.eldaw@northampton.ac.uk
